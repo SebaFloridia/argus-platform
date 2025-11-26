@@ -1,0 +1,81 @@
+﻿# 🚨 Argus Platform - Public Health Intelligence System
+
+[![Python](https://img.shields.io/badge/Python-3.14-blue.svg)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-2.0-orange.svg)](https://pandas.pydata.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+> *Multi-Source Syndromic Surveillance & Early Warning System for Epidemiological Intelligence*
+
+![Argus Platform](https://via.placeholder.com/800x400/2E86AB/FFFFFF?text=Argus+Platform+-+Public+Health+Intelligence)
+
+## 🎯 Overview
+
+Argus Platform is a sophisticated public health intelligence system that integrates *clinical, social, and environmental data sources* to detect disease outbreaks in real-time. Named after the all-seeing giant from Greek mythology, Argus provides comprehensive surveillance capabilities for epidemiological monitoring.
+
+## 🏗 Architecture
+
+### Four-Pillar Surveillance System:
+
+| Pillar | Description | Key Features |
+|--------|-------------|--------------|
+| *🧬 Clinical Data* | Syndromic surveillance from healthcare systems | Anomaly detection, Incidence rates, Moving averages |
+| *🐦 Twitter Surveillance* | Social media symptom monitoring | Digital epidemiology, Geospatial analysis |
+| *🌡 Environmental Data* | Weather and environmental factors | Risk scoring, Seasonal patterns |
+| *🔗 Data Fusion Engine* | Multi-source integration | Composite risk assessment, Alert system |
+
+## 📊 Key Capabilities
+
+- *Real-time Outbreak Detection*: Statistical anomaly detection using z-scores and moving averages
+- *Multi-Source Intelligence*: Integrates clinical, social, and environmental data streams
+- *Risk Assessment*: Composite risk scoring with actionable alert levels (Low/Medium/High)
+- *Geospatial Analysis*: State-level monitoring and hotspot identification
+- *Production-Ready Pipeline*: Modular architecture with error handling and data validation
+
+## 🚀 Quick Start
+
+### Installation
+
+```bash
+# Clone repository
+git clone https://github.com/yourusername/argus-platform.git
+cd argus-platform
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the complete pipeline
+python src/run_argus.py.
+# Run individual modules
+python src/clinical_data_ingestion.py
+python src/twitter_surveillance.py  
+python src/data_fusion_engine.py
+
+# Or run complete pipeline
+python src/run_argus.py
+Argus-Platform/
+├── src/
+│   ├── data_ingestion/          # Data collection modules
+│   ├── analysis/               # Statistical analysis
+│   ├── dashboard/              # Visualization components
+│   ├── utils/                  # Utility functions
+│   ├── clinical_data_ingestion.py
+│   ├── twitter_surveillance.py
+│   ├── data_fusion_engine.py
+│   └── run_argus.py           # Main pipeline runner
+├── data/                       # Generated surveillance data
+├── docs/                       # Documentation
+├── tests/                      # Test suites
+├── requirements.txt
+├── LICENSE
+└── README.md
+@'
+# Argus Platform - Dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.2.0
+plotly>=5.14.0
+streamlit>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+jupyter>=1.0.0
+statsmodels>=0.14.0
